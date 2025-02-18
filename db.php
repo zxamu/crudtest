@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $dbname = 'empleados_db';
-$user = 'root'; // Tu usuario de MySQL
-$password = ''; // Tu contraseña de MySQL
+$user = 'root';
+$password = '';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);

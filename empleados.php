@@ -1,7 +1,5 @@
 <?php
 include 'db.php';
-
-// Agregar empleado
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !isset($_POST['action'])) {
     $nombre = $_POST['nombre'];
     $puesto = $_POST['puesto'];
