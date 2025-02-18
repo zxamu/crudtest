@@ -26,7 +26,9 @@ git clone (la url)
 Abre el panel de control e inicia los servicios.
 
 ### 5. Ir a **phpMyAdmin** y correr el script para la creación de la base de datos y los datos
-Entra a **phpMyAdmin** y ejecuta el script que te dejo en txt de la base de datos para crear las tablas necesarias.
+Entra a phpMyAdmin y ejecuta el script que te dejo en txt de la base de datos para crear las tablas necesarias.
+
+A este paso ya deberia de funcionar pero si no, haz el paso 6.
 
 ### 6. Correr los siguientes comandos dentro de la carpeta del proyecto
 
